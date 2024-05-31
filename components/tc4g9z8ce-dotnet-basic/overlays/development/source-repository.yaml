@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tc4g9z8ce-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/tc4g9z8ce-dotnet-basic
